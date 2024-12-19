@@ -2,7 +2,8 @@
     "name": "new (khloe, sophia, and namir",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "controller": "*"
     },
     "files": [
         "main.blocks",
